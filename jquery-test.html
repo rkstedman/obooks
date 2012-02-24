@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <script type="text/javascript" src="scripts/jquery/jquery-1.4.2.js"></script>
+	<script type="text/javascript" src="scripts/jquery/jquery.form.js"></script> 
+
+    <script type="text/javascript">
+	<!--hide from old browsers
+		function clickedMe() {
+			alert('hello')
+		}
+	//-->
+    </script>
+  </head>
+  
+  <?php
+	require_once("scripts/html-generator-functions.php");
+?>
+  
+  <body>
+    <form id="myForm" action="jquery-test.html" method="post"> 
+    Name: <input type="text" name="name" /> 
+    Comment: <textarea name="comment"></textarea>
+	<input type="button" value="Click me" onClick="alert('hello')"/>
+	<input type="button" value="Click me too" onClick="document.getElementById('atitle').innerHTML='<?php navbar() ?>';"/>
+	<input type="button" value="Click me too 2" onClick="clickedMe()"/>
+	<h1 id="atitle"> Nothing Here </h1>
+    <input type="submit" value="Submit Comment" /> 
+</form>
+  </body>
+</html>

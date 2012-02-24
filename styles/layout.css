@@ -1,0 +1,50 @@
+@charset "utf-8";
+body {
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	z-index: 1;
+}
+.oneColElsCtr #container {
+	width: 46em;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	text-align: left; /* this overrides the text-align: center on the body element. */
+}
+.oneColElsCtr #mainContent {
+	padding: 10px 20px; /* remember that padding is the space inside the div box and margin is the space outside the div box */
+}
+#searchbar {
+    text-align: center;	
+	padding-top: 10px;
+}
+
+#postbutton {
+	padding-top: 10px;
+	padding-right: 10px;
+    text-align: right;
+	width: 33%;
+}
+
+table#navbar {
+	width: 100%;
+}
+
+div#navbar {
+    height: 55px;	
+}
+
+table.bookscroll {
+    width: 100%;
+	text-align: center;
+}
+
+
+div.bookimg {
+	float:left;
+	padding: 0px 20px 0px 10px;
+}
+div.bookinfo {
+}
+h2.bktitle {
+	margin: 0;
+}

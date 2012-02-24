@@ -1,0 +1,23 @@
+<p> My Name is Rachael </p>
+
+
+<?php 
+
+require_once("MDB2.php");
+require_once("obooks-dsn.inc");
+require_once("search-functions.php");
+require_once("html-generator-functions.php"); 
+
+if(isset($_GET['isbn'])) {
+    $dbh = db_connect($obooks_dsn); // connect to the database
+	$isbn = $_GET['isbn'];
+	echo "<td> I added a book $isbn </td>"
+	
+	//if (!$find_book($dbh,$isbn)) {
+	/* if book not already in database, add it */
+	//	addBook($dbh,$isbn);
+	//}
+	/* then print the book information */
+	//printBookForm($dbh, $isbn);	
+
+?>

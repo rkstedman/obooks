@@ -1,0 +1,22 @@
+
+      <h2> Electrical Engineering </h2>
+    <table class="bookscroll"> <tr>
+    <td> <img src="images/left_arrow.png" alt="scroll left" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/013805326X-M.jpg" alt="013805326X-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/0138147574-M.jpg" alt="0138147574-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/0876390599-M.jpg" alt="0876390599-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/1419643991-M.jpg" alt="1419643991-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/0138147574-M.jpg" alt="0138147574-M" width="100" height="140" /> </td>
+    <td> <img src="images/right_arrow.png" alt="scroll right" /> </td>
+    </tr></table>
+    <hr  /> <h2> Design </h2>
+    <table class="bookscroll"> <tr>
+    <td> <img src="images/left_arrow.png" alt="scroll left" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/0465067107-M.jpg" alt="0465067107-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/0672326140-M.jpg" alt="0672326140-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/1592530079-M.jpg" alt="1592530079-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/0465051367-M.jpg" alt="0465051367-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/0716798565-M.jpg" alt="0716798565-M" width="100" height="140" /> </td>
+    <td> <img src="images/right_arrow.png" alt="scroll right" /> </td>
+    </tr></table>
+    <hr  />

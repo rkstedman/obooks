@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Obooks</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="styles/layout.css" rel="stylesheet" type="text/css" />
+<link href="styles/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="oneColElsCtr">
+
+<div id="container">
+  
+  <div id="header">
+  	<img src="images/header.png" width="520" height="145" alt="Obooks" />
+  </div>
+  
+  <table id="navbar"><tr>
+      <td id="postbutton">&nbsp;  </td>
+      <td id="searchbar"><form>
+            <input name="" type="text" value="Search books" maxlength="200" />
+            <input type="submit" value="Search" />
+       </form></td>
+       <td id="postbutton"><form>
+            <input type="submit" value="Post Offer" />
+       </form></td>
+  </tr></table>
+  
+  <div id="mainContent">
+  <!-- TemplateBeginEditable name="mainContent" -->mainContent<!-- TemplateEndEditable -->
+    
+	<!-- end #mainContent --></div>
+    <p align="center"> Copyright 2010 by Rachael Stedman </p>
+      <br />
+<!-- end #container --></div>
+</body>
+</html>

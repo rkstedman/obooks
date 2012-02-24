@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Obooks</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="styles/layout.css" rel="stylesheet" type="text/css" />
+<link href="styles/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="oneColElsCtr">
+
+<div id="container">
+  
+  <div id="header">
+  	<img src="images/header.png" width="520" height="145" alt="Obooks" />
+  </div>
+  
+  <table id="navbar"><tr>
+      <td id="postbutton">&nbsp;  </td>
+      <td id="searchbar"><form>
+            <input name="" type="text" value="Search books" maxlength="200" />
+            <input type="submit" value="Search" />
+       </form></td>
+       <td id="postbutton"><form>
+            <input type="submit" value="Post Offer" />
+       </form></td>
+  </tr></table>
+  
+  <div id="mainContent">
+    <h2> Newly Added </h2>
+    <table width="100%"> <tr>
+    <td> <img src="images/left_arrow.png" alt="scroll left" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/013805326X-M.jpg" alt="013805326X-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/0590353403-M.jpg" alt="0590353403-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/0716798565-M.jpg" alt="0716798565-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/0876390599-M.jpg" alt="0876390599-M" width="100" height="140" /> </td>
+    <td> <img src="http://covers.openlibrary.org/b/isbn/0138147574-M.jpg" alt="0138147574-M" width="100" height="140" /> </td>
+    <td> <img src="images/right_arrow.png" alt="scroll right" /> </td>
+    </tr>
+    </table>
+      <h2>Browse Books</h2>
+      <h3> By Subject </h3>
+      <ul>
+          <li> Electrical Engineering </li>
+          <li> Mechanical Engineering </li>
+          <li> Design </li>
+          <li> AHS </li>
+          <li> Entreprenuership </li>
+          <li> Math </li>
+          <li> Other </li>
+      </ul>
+      <h3> By Class Relevance </h3>
+      <ul> 
+          <li> Freshmen </li>
+          <li> Sophomore </li>
+          <li> Junior </li>
+          <li> Senior </li>
+      </ul>
+      <p align="center"> Copyright 2010 by Rachael Stedman </p>
+      <br />
+    
+	<!-- end #mainContent --></div>
+<!-- end #container --></div>
+</body>
+</html>
