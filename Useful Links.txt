@@ -1,8 +1,0 @@
-
-Book Database API
-
-https://isbndb.com/docs/api/51-books.html
-
-
-How to style XML
-http://www.w3.org/Style/styling-XML
